@@ -8,7 +8,7 @@
 </div>
 
 ### 🟢 Open to Work
-Actively looking for **AI/ML Engineer** roles (Chennai / Remote) — computer vision, LLM/RAG systems, and applied ML.
+Actively looking for **AI/ML Engineer** roles (Chennai / Remote) — LLM/RAG systems, applied AI, and computer vision.
 
 ---
 
@@ -29,14 +29,18 @@ Actively looking for **AI/ML Engineer** roles (Chennai / Remote) — computer vi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 </div>
+
+**📈 Actively Leveling Up In:** `LangGraph` → `Docker` → `Pinecone / Qdrant` → `PyTorch (project-backed)` → `Multi-agent systems` → `LoRA fine-tuning`
 
 ---
 
@@ -44,34 +48,26 @@ Actively looking for **AI/ML Engineer** roles (Chennai / Remote) — computer vi
 
 | Project | Description | Stack |
 |---|---|---|
-| **SignMind X** | Real-time gesture recognition, ~95% accuracy | OpenCV, MediaPipe, PySide6 |
-| **RAG Knowledge Assistant** | Retrieval-augmented Q&A over documents | LangChain, ChromaDB, Groq (Llama 3) |
-| **AI Stock & Forex Assistant** | Conversational market analysis assistant | FastAPI, LangChain, Thesys C1 |
-| **RizAPI** | Custom WSGI web framework built from scratch | Python |
+| **SignMind X** | Turn your hand into a wireless controller — real-time gesture recognition | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white) |
+| **RAG Knowledge Assistant** | Retrieval-augmented Q&A over documents | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/ChromaDB-306998?style=flat-square&logo=python&logoColor=white) |
+| **AI Stock & Forex Assistant** | Conversational market analysis assistant | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **RizAPI** | Custom WSGI web framework built from scratch | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 *More projects, including Flutter apps, on my [repositories page](https://github.com/RIZVIQ?tab=repositories).*
 
 ---
 
-### 📚 Currently Learning
-
-`LangGraph` → `Docker` → `Pinecone / Qdrant` → `PyTorch (project-backed)` → `Multi-agent systems` → `LoRA fine-tuning`
-
----
-
 ### 🎲 Fun Facts
 
-- 🎥 Built a fully automated YouTube pipeline — script generation, TTS, image gen, and video assembly, end to end
-- 📊 Analyzed 38+ real job descriptions to reverse-engineer what AI/ML hiring actually looks for
+- 💪 Gym regular — same discipline in training as in shipping code
+- 📚 Enjoys reading and writing outside of tech
+- 🎮 Gamer when not debugging models
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RIZVIQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIZVIQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIZVIQ&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" />
 
