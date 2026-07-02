@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi,%20I'm%20RIZVIQ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Final-Year%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=16" width="100%"/>
+# Hi, I'm RIZVIQ 👋
+### AI / ML Engineer &nbsp;|&nbsp; Final-Year AI & Data Science Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+NLP+%7C+LLMs+%2F+RAG+Systems;Building+production-ready+ML+pipelines;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+NLP+%7C+LLMs+%2F+RAG+Systems;Building+production-ready+ML+pipelines;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
 
 </div>
 
@@ -80,4 +81,8 @@ Actively looking for **AI/ML Engineer** roles (Chennai / Remote) — computer vi
 <img src="https://raw.githubusercontent.com/RIZVIQ/RIZVIQ/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<div align="center">
+
+⭐ Thanks for stopping by — feel free to explore my repos or connect via [Portfolio](https://rizviqhussain-portfolio.vercel.app)
+
+</div>
