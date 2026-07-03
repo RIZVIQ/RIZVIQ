@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm RIZVIQ 👋
-### AI / ML Engineer &nbsp;|&nbsp; Final-Year AI & Data Science Student
+### AI / ML Engineer &nbsp;|&nbsp; AI & Data Science Graduate, 2026
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+NLP+%7C+LLMs+%2F+RAG+Systems;Building+production-ready+ML+pipelines;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@ Actively looking for **AI/ML Engineer** roles (Chennai / Remote) — LLM/RAG sys
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech AI & Data Science** @ BSACIST, Chennai
+- 🎓 **B.Tech AI & Data Science** graduate, 2026 — BSACIST, Chennai
 - 🧠 Focused on Computer Vision, LLMs/RAG, and ML systems that ship — not just notebooks
 - 📱 Also exploring mobile app development with Flutter
 - 🛠️ Building automation pipelines and taking on freelance AI/CV/Python work
